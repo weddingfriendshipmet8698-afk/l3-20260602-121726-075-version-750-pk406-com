@@ -1,0 +1,22 @@
+{
+  "movie_count": 2000,
+  "detail_file_count": 2000,
+  "category_file_count": 10,
+  "category_card_count": 2000,
+  "category_total": 2000,
+  "html_file_count": 2015,
+  "analytics_missing": [],
+  "sample_player_missing": [],
+  "category_counts": {
+    "featured": 200,
+    "action-crime": 200,
+    "suspense-thriller": 200,
+    "romance-drama": 200,
+    "science-fantasy": 200,
+    "comedy-healing": 200,
+    "war-history": 200,
+    "variety-reality": 200,
+    "documentary-animation": 200,
+    "annual-hot": 200
+  }
+}
